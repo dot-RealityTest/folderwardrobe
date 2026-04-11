@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+.swiftpm/
+.omx/
+dist/
+
+# Xcode / macOS local state
+DerivedData/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
