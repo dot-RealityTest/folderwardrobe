@@ -7,6 +7,12 @@ It focuses on three things:
 - custom folder icon replacement
 - metadata presets (Finder comment + tags)
 
+## Download
+
+Download the latest notarized DMG from GitHub Releases:
+
+- [folderwardrobe.dmg](https://github.com/dot-RealityTest/folderwardrobe/releases/latest/download/folderwardrobe.dmg)
+
 ## What It Does
 
 - Accepts folders via drag-and-drop or picker.
