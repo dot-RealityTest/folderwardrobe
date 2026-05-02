@@ -231,7 +231,7 @@ A: Yes, completely free.
 
 ## 📄 License
 
-**Private** — All rights reserved to KIKA.
+**Private — All rights reserved to KIKA.**
 
 ---
 
